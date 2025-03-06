@@ -1,2 +1,2 @@
 # CODSOFT
-In this repo, I have completed and showed the tasks given by CODSOFT in their virtual internship for Data Science
+In this repo, I have completed and showcased my tasks given by CODSOFT regarding the Data Science Virtual Internship.
