@@ -1,3 +1,5 @@
+# CodSoft Data Science Internship
+
 💻 CODSOFT: My Data Science & Machine Learning Internship Projects
 
 Welcome to my repository for the CODSOFT Data Science & Machine Learning Internship! This collection showcases my completed projects, where I've applied my practical skills in data analysis, machine learning, and predictive modeling.
